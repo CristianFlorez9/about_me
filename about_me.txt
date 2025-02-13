@@ -1,9 +1,16 @@
 🚀 Desarrollador Junior | Python 🐍 | C++ ⚙️ | HTML & CSS 🌐 | Django 🏗️ | JavaScript ⚡ | React ⚛️
 
-🎓 Estudiante de Ingeniería Electrónica en la Universidad de Antioquia, con una sólida base en matemáticas y física. Esto me permite analizar problemas desde una perspectiva lógica y estructurada, aplicando este enfoque en el desarrollo de software para crear soluciones eficientes y bien diseñadas.
+🎓 Estudiante de Ingeniería Electrónica en la Universidad de Antioquia, con una sólida base en matemáticas y física.
+Esto me permite analizar problemas desde una perspectiva lógica y estructurada, aplicando este enfoque en el desarrollo 
+de software para crear soluciones eficientes y bien diseñadas.
 
-💻 Tengo experiencia en Python, C++, HTML y CSS, además de conocimientos en Django para desarrollo backend. Actualmente, estoy ampliando mis habilidades en JavaScript y React para el desarrollo frontend, permitiéndome construir aplicaciones web dinámicas e interactivas. Me apasiona el código limpio, la optimización y el diseño de software funcional y escalable.
+💻 Tengo experiencia en Python, C++, HTML y CSS, además de conocimientos en Django para desarrollo backend. 
+Actualmente, estoy ampliando mis habilidades en JavaScript y React para el desarrollo frontend, permitiéndome 
+construir aplicaciones web dinámicas e interactivas. Me apasiona el código limpio, la optimización y el diseño 
+de software funcional y escalable.
 
-🔍 Soy una persona curiosa y siempre estoy en busca de mejorar mis habilidades. Me encanta explorar nuevas tecnologías, entender cómo funcionan y aplicarlas en proyectos reales. Creo que el aprendizaje es un proceso continuo, y cada reto es una oportunidad para crecer y convertirme en un mejor desarrollador.
+🔍 Soy una persona curiosa y siempre estoy en busca de mejorar mis habilidades. Me encanta explorar nuevas 
+tecnologías, entender cómo funcionan y aplicarlas en proyectos reales. Creo que el aprendizaje es un proceso 
+continuo, y cada reto es una oportunidad para crecer y convertirme en un mejor desarrollador.
 
 🚀 Listo para enfrentar nuevos desafíos y seguir evolucionando en el mundo del desarrollo.
